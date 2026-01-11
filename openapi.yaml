@@ -1,10 +1,10 @@
 openapi: 3.0.0
 info:
-  title: CrossFit Accessory Planner API
+  title: After WOD API
   description: CrossFit 보조 운동 계획 생성 및 운동 기록 관리 API
   version: 1.0.0
   contact:
-    name: CrossFit Planner Team
+    name: Hound ANAS
   license:
     name: MIT
 
