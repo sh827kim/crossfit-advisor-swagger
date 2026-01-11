@@ -242,7 +242,7 @@ paths:
               schema:
                 $ref: '#/components/schemas/ErrorUnauthorizedResponse'
 
-  /workouts/history:
+  /workouts/records:
     get:
       tags:
         - 운동 기록
@@ -304,8 +304,6 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ErrorUnauthorizedResponse'
-
-  /workouts/records:
     post:
       tags:
         - 운동 기록
